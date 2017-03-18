@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Academia</string>
+    <string name="action_settings">Oções</string>
+    <string name="title_activity_create_training">Criar Treino</string>
+    <string name="title_activity_view_exercise">Visualizar exercícios</string>
+    <string name="ChangeExerciseDialogTitle">Alterar exercício</string>
+    <string name="CreateExerciseDialogTitle">Adicionar exercício</string>
+    <string name="mainToast">Selecione um treino ou pressione para deletá-lo</string>
+    <string name="viewExerciseMainToast">Selecione um exercício para alterá-lo</string>
+    <string name="createTrainingMainToast">Seleciona um exercício para deletá-lo</string>
+    <string name="addExercise">Adicionar exercício</string>
+    <string name="save">Salvar</string>
+    <string name="newTraining">Novo treino</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancelar</string>
+    <string name="insertTitle">Insira um titúlo para este treino</string>
+    <string name="confirm">confirmar</string>
+    <string name="changeTraining">Alterar treino</string>
+    <string name="update">alterar</string>
+    <string name="delete">deletar</string>
+    <string name="exercise">Exercício</string>
+    <string name="quantity">Quantidade</string>
+    <string name="repetition">Repetições</string>
+    <string name="changeExercise">Alterar exercício</string>
+    <string name="addExerciseTitle">Adicionar um novo exercício</string>
+    <string name="addTraining">Adicionar treino</string>
+    <string name="confirmation">Confirmar</string>
+    <string name="confirmationDeleteTraining">Você quer deletar este treino?</string>
+    <string name="confirmationDeleteExercise">Você quer deletar este exercício?</string>
+</resources>
